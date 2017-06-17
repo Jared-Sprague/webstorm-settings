@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[statuspage-controller] - .../test'" />
-    <option name="defaultScopeName" value="Directory '[statuspage-controller] - .../test'" />
-    <option name="SEARCH_SCOPE" value="Directory '[statuspage-controller] - .../test'" />
+    <option name="customScope" value="File '[statuspage-controller] - .../README.md'" />
+    <option name="defaultScopeName" value="File '[statuspage-controller] - .../README.md'" />
+    <option name="SEARCH_SCOPE" value="File '[statuspage-controller] - .../README.md'" />
   </component>
 </application>
