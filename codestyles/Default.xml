@@ -1,1 +1,5 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <JSCodeStyleSettings>
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
+  </JSCodeStyleSettings>
+</code_scheme>
